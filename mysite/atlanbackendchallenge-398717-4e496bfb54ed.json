@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "atlanbackendchallenge-398717",
+  "private_key_id": "4e496bfb54edde949399a3e60cae1702a7af2a8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCb5WyuNiWvcjjy\n4D8PSW5L/cCIZvbWtuOOzopg3qnc8qm8iwaoxb3ZXg3JSEXZPER76IW0EVsWNdvT\npPjb4X2sZUOYtnJh5HCIoDd9wyE/EDRhuHDEBX+O/XqHBFxjdhqF+8+B3bZbcUEd\ntvGaoVU3QaQAJmsLY6QUXtj2ToBtY8M6g0It+CxWScpUSzgrzzpEZUyLRHcZOZ07\nPYdnegJX4IW5ja8h6xmfdvXEw8WMLX0HDR+7FMTgNQiUTM8jSM6oDP9YTGX2oK8O\nFGsKz+qJZyS+rrWmeV2xgiau0TXPd14iWHcb0IzqUC45AjOtw80AT6LTWaWTQU0S\nnpNVeD3fAgMBAAECgf9W31Js7zgBy1cE3cQ8GGGD3g5GbOfuIvIuQE6RBuzdcZ1b\nrVSNrfPUifvKXjMQsGRCG4+JSF7grsNB+JDS+7Q3I3ggvP4AcOUhq+odKDiOSLgp\nJb8ui6+gAWk+b3h1zDndZcfuwQTvDhHZTXW+bIgwuHn0HfcBIwBOletvVeYN9Ssg\nwJ7G1PqM0IU92WRNiJ/f4yVPuiC1kST1qAmyQo2gNKFlCyp+ptCJzTandTWjtTGD\nlQcUHMkx+hsctkuj0+QQh0ptaLCTj9a/0NVrxwUHo2LhFtwsst9AIrQGmfPDeFd3\n60sLhz3i/9dFcPmVfz8eNijcZPb2d1yUtNpe1mECgYEAzW11qPfOCDgc49bPIo/H\nfXpTKo4ely1E88y6oMXULvMbzQCvxeRXiVUDsqdk86sk/5oqrRDDQuK3WoqmXfxu\n1p/CKmgS5Bqh8dQQX+2NwSisigJtHv6twnvZ36bvIL/d7NLE/jotWY0m3z81WU9K\nOimJk7t+E3oM5DXwVWt9MCECgYEAwkZgr6TBAK+D4M/3nSOmXaIu6gUVAZqf02WU\nYCYQ1ndgCGFqNtiZ/jmLr/AzNFUWDh6FrJNWIbaF2R8/P0bBefnsLPdp8UlO3syb\nbPKtRUHZ0ySuXFFKCTA5k1Mp4oLwkb10BWAaEvgGT8ZBcRkjIAwfDs4G/LlN75hH\nYw5frf8CgYAop6MDf5dM1R4SkS6JHn9Se+T9pQa00Ia24SuGKeCmMgKsfZhLx7bz\nPNnwf2RhPNujojUT7x9Vm1zCFHJ8YzrkStW4YsRqVEL8gwWClpbZRV1wKq7B1ZE5\nzhz+QCFPD+mxtry5u3XCJUcuI2pBdImyHQpXLGH1JNBsUahwn0c1QQKBgBaoFICH\na0bEMVIXjt4RmUZUMrpyC0gbm0YRE6O+7LnGRDnV+ogY7KScW3ESRzZ0MdVFs/sz\nV5ko6yUuIrcjbk7mWafI1t8f2IXdQMcM6i4ohtm77mWvyT2XFS/cRAc5lAq7GHvE\nAGZz7HCDQ4CIGPOU1k5osqHojnFBxhmERJ5LAoGBAKGjgCyXIWcA7mase+Ea6TvH\nmkIbepofIQf5c5GKtwTwZv9DIwhfw59PardYusZBRNiZiqF4KAiHt/6WHMIPALC1\nx5ACjHMHoCkfoix40nLW+FxkyK0x7BpT7ZLb7RvZJ7iwQakwC72Gu7dcyPuZhOyw\nSJZxwKUVgTyFGSf1TLGB\n-----END PRIVATE KEY-----\n",
+  "client_email": "atlanbackendchallenge@atlanbackendchallenge-398717.iam.gserviceaccount.com",
+  "client_id": "118085838857020600707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atlanbackendchallenge%40atlanbackendchallenge-398717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
